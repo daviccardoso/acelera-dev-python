@@ -1,0 +1,28 @@
+{
+  "name": "acelera-dev-crypton",
+  "version": "1.0.0",
+  "description": "Aplicação construída como requisito para seleção em um programa de aceleração em Python da Codenation.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviccardoso/acelera-dev-python.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript",
+    "Criptografia",
+    "API"
+  ],
+  "author": "Davi Cardoso <20673538+daviccardoso@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daviccardoso/acelera-dev-python/issues"
+  },
+  "homepage": "https://github.com/daviccardoso/acelera-dev-python#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
