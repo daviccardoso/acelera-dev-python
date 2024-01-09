@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/daviccardoso/acelera-dev-python#readme",
   "dependencies": {
-    "axios": "^0.21.2",
+    "axios": "^1.6.0",
     "request": "^2.88.0"
   }
 }
